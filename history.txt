@@ -1,0 +1,207 @@
+    1  git --version
+    2  git -v
+    3  git confirm --global alona13 "Alona"
+    4  git config --global alona13 "Alona"
+    5  git config --glibal -l
+    6  git config --global alona13.rud "Alona Rudenko"
+    7  git config --global -l
+    8  git config --global user.name "Alona Rudenko"
+    9  git config --global -l
+   10  git config --global user.email "green13girl10@gmail.com"
+   11  git config --global -l
+   12  clear
+   13  ls -al 
+   14  cd /users/AlonaRud
+   15  /AlonaRud
+   16  alona/AlonaRud/
+   17  /alona/AlonaRud/
+   18  /c/Users/alona/Git_lessons
+   19  cd /c/Users/alona/Git_lessons
+   20  git@github.com:alona13ru/090924-wdm_my.git
+   21  cat /c/Users/alona/Git_lessons
+   22  git clone git@github.com:alona13ru/090924-wdm_my.git
+   23  mksir -p /c/Users/alona/Git_others
+   24  mkdir -p /c/Users/alona/Git_others
+   25  cd /c/Users/alona/Git_others
+   26  echo  "New text" >> file.txt
+   27  echo  "New text" >> file1.txt
+   28  echo  "New text" >> file2.txt
+   29  echo  "New text" >> file3.txt
+   30  git init
+   31  git add .
+   32  git status
+   33  git commit -m "Init commit"
+   34  echo "New text noch mahl" >> file.txt
+   35  echo  '#!/bin/bach' >> file4.sh
+   36  cat file4.sh
+   37  git status
+   38  git add .
+   39  git commit -m "Add new file.sh"
+   40  git log
+   41  git remote add origin https://github.com/alona13ru/TestGit.git
+   42  get remote -v
+   43  git remote -v
+   44  git branch -M main
+   45  git status
+   46  git push -u origin main
+   47  git pull
+   48  ls -al
+   49  git log
+   50  git remote add origin http://github.com/alona13ru/git_info.git
+   51  fit branch -M mail
+   52  clear
+   53  ls -al
+   54  ls
+   55  /c/Users/alona/
+   56  cd /c/Users/alona/
+   57  cat
+   58  cat /c/Users/alona/
+   59  mkdir -p /c/Users/alona/Git_work
+   60  cd /c/Users/alona/Git_work
+   61  mkdir GitWH_8
+   62  ls -al
+   63  rm GitWH_8
+   64  cd /c/Users/alona/Git_work/GitWH_8
+   65  git remote add origin https://github.com/alona13ru/git_info.git
+   66  git branch -M main
+   67  git push -u origin main
+   68  cat
+   69  cd /c/Users/alona/Gir_work
+   70  cd /c/Users/alona/Git_work
+   71  cd /c/Users/alona/Git_work/GitWH_8
+   72  echo "#GitWH_8" >> README.md
+   73  git init
+   74  git add README.md 
+   75  git commit -m "first commit"
+   76  git branch -m main
+   77  git remote add origin git@github.com:alona13ru/git_info.git
+   78  git push -u origin main
+   79  git remote add origin git@github.com:alona13ru/git_info.git
+   80  git branch -M main
+   81  git push -u origin main
+   82  git remote -v
+   83  mv /c/Users/alona/Git_work/GitWH_8 /c/Users/alona/Git_work/git_intro
+   84  cd /c/Users/alona/Git_work/git_intro
+   85  cp /path/to/photo ./git_intro
+   86  cp /c/Users/alona/Documents/img.jpg /c/Users/alona/Git_work/git_intro
+   87  cp /Documents/img.jpg /c/Users/alona/Git_work/git_intro
+   88  cp /Documents/img /c/Users/alona/Git_work/git_intro
+   89  cp /c/Users/alona/AlonaRud/img /c/Users/alona/Git_work/git_intro
+   90  cp /c/Users/alona/AlonaRud/picture.jpg /c/Users/alona/Git_work/git_intro
+   91  cp /c/Users/alona/AlonaRud/img/picture.jpg /c/Users/alona/Git_work/git_intro
+   92  cp /c/Users/alona/AlonaRud/ /c/Users/alona/Git_work/git_intro
+   93  cat /c/Users/alona/Git_work/git_intro
+   94  ls -al /c/Users/alona/Git_work/git_intro
+   95  cp /c/Users/alona/AlonaRud/img /c/Users/alona/Git_work/git_intro
+   96  cp /c/Users/alona/AlonaRud/img.jpg /c/Users/alona/Git_work/git_intro
+   97  cp /c/Users/alona/AlonaRud/img.jpg/* /c/Users/alona/Git_work/git_intro
+   98  git init
+   99  git add AlonaRud
+  100  git add img.jpg
+  101  gip add /c/Users/alona/AlonaRud/img.jpg
+  102  gip add /c/Users/alona/AlonaRud/img.jpg.jpg
+  103  git init
+  104  git add /c/Users/alona/AlonaRud/img.jpg
+  105  git init 
+  106  git add /c/Users/alona/Git_work/git_intro/img1.jpg
+  107  git commit -m "Добавлено фото"
+  108  git remote add origin git@github.com:alona13ru/git_intro.git
+  109  git push -u origin main
+  110  /c/User/alona/AlonaRud
+  111  cd /c/Users/alona/AlonaRud
+  112  git init
+  113  git add /c/Users/alona/AlonaRud/img.jpg
+  114  git commit -m "foto is instalen"
+  115  git config --global alona13ru
+  116  git config --global user.name "Alona"
+  117  git config --global user.email "green13girl10@gmail.com"
+  118  git config --global -l
+  119  cd C:/User/alona/AlonaRud
+  120  ls -al
+  121  cd AlonaRud
+  122  cd AlonaRud/git-branch
+  123  cd git-branch
+  124  git clone [200~### JetBrains template
+  125  ls -al
+  126  git add .gitignore
+  127  git add gitignore
+  128  git add gitignore.txt
+  129  git commit -m "Добавлен новый gitignore.txt"
+  130  git add -A
+  131  git commit -m "Добавлен новый gitignore.txt"
+  132  ls -al
+  133  git clone git@github.com:aliaskov/bashscripts.git
+  134  git add .gitignore
+  135  git add .gitignore
+  136  git commit -m "Добавлен новый .gitignore"
+  137  git remote add origin git@github.com:alona13ru/git-branch.git
+  138  cd AlonaRud
+  139  git remote add origin git@github.com:alona13ru/git-branch.git
+  140  git push -u origin gitignore
+  141  git push -u origin .gitignore
+  142  git push -u origin gitignore
+  143  ls -al
+  144  AlonaRud/
+  145  cd AlonaRud/
+  146  ls -al#
+  147  ls -al
+  148  cd git-branch
+  149  git remote add origin git@github.com:alona13ru/git-branch.git
+  150  git branch -M main
+  151  git push -u origin main
+  152  #!/bin/bash
+  153  #
+  154  #Указываем группу
+  155  FILE_LIST="/opt/090924-wdm"
+  156  #Получить список файлов в директории и проверить права
+  157  for FILE in $FILE_LIST/*.sh; do
+  158     if [[ -f "$FILE" ]]; then
+  159         echo +x "$FILE";        echo "Добавлены права на исполнение для файла: $FILE";     fi; done 
+  160  echo "Права на исполнение успешно добавлено"
+  161  ls -al
+  162  cd AlonaRud/HW12
+  163  git remote add origin git@github.com:alona13ru/HW12.git
+  164  git branch -M main
+  165  git push -u origin main
+  166  gt init
+  167  git clone git@github.com:alona13ru/HW12.git
+  168  cd HW12
+  169  git checkout -b feature
+  170  ls -al
+  171  cd /AlonaRud/
+  172  cd AlonaRud/
+  173  cd AlonaRud/HW12
+  174  cd HW12
+  175  git clone git@github.com:alona13ru/HomeW12.git
+  176  git checkout -b feature
+  177  echo "Изменения внесены" > README.md
+  178  nano .gitignore
+  179  ls -al
+  180  rm .gitignore
+  181  ls -al
+  182  nano .gitignore
+  183  git add .
+  184  git commit -m "Внесены изменения в файл README.md and .gitignore"
+  185  git push origin feature
+  186  cd HomeW12
+  187  git checkout  -b feature
+  188  echo "Hello it is new file README.md" > README.md
+  189  ls -al
+  190  nano .gitignore
+  191  nano .gitignore 
+  192  git add README.md .gitignore
+  193  git commit -m "Добавлены новые файлы README.md and .gitignore"
+  194  git push -u origin feature
+  195  git commit --amend -m ""Добавлены файлы README.md и обновлен .gitignore (ammend)"
+  196  git commit --amend -m ""Добавлены файлы README.md и обновлен .gitignore"
+  197  git push -f
+  198   git checkout main.
+  199  ls -al
+  200  clear
+  201  cd AlonaRud/HW12/HomeW12
+  202  ls -al
+  203  git commit --amend
+  204  git push -f
+  205  git checkout main
+  206  git merge feature
+  207  history > history.txt
